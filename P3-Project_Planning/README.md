@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-The following are wireframes made by members of our group project:
+The following are wireframes made by members of our group for our Shelter App project:
 
 [Login](https://www.figma.com/proto/Tm5iTbBowi92L9iFqKB4kN/ShelterApp?node-id=3%3A5&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A5)
 [Initial Screen](https://www.figma.com/proto/Tm5iTbBowi92L9iFqKB4kN/ShelterApp?node-id=8%3A18&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A5)
