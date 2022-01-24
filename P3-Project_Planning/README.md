@@ -8,12 +8,18 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+The following are wireframes made by members of our group project:
+
+[Login](https://www.figma.com/proto/Tm5iTbBowi92L9iFqKB4kN/ShelterApp?node-id=3%3A5&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A5)
+[Initial Screen](https://www.figma.com/proto/Tm5iTbBowi92L9iFqKB4kN/ShelterApp?node-id=8%3A18&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A5)
+[Dog Selection](https://www.figma.com/proto/Tm5iTbBowi92L9iFqKB4kN/ShelterApp?node-id=8%3A19&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A5)
+[Dog Activities](https://www.figma.com/proto/Tm5iTbBowi92L9iFqKB4kN/ShelterApp?node-id=8%3A20&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A5)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Shelter App Trello Board](https://trello.com/b/9zuxEi3D/agile-sprint-board)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[Shelter App Frontend](https://github.com/edlopez000/shelter-app-frontend)
+[Shelter App Backend](https://github.com/edlopez000/shelter-app-backend)
